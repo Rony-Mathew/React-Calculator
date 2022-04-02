@@ -1,8 +1,8 @@
 ## Project Name & Pitch
 
-ToDo-List-App
+Simple-Calculator-app
 
-A training project to create a ToDo App using React.
+A training project to create a simple calculator application
 
 
 ## Installation and Setup Instructions
